@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yape Lector</string>
+    <string name="perm_ok">✅ Acceso a notificaciones: activado</string>
+    <string name="perm_missing">⚠️ Falta activar el acceso a notificaciones. Toca el botón y activa \"Yape Lector\".</string>
+    <string name="btn_permission">Dar acceso a notificaciones</string>
+    <string name="sw_enabled">Leer notificaciones en voz alta</string>
+    <string name="sw_say_app">Decir también el nombre de la app</string>
+    <string name="selected_title">Apps que se leen:</string>
+    <string name="none_selected">Ninguna app seleccionada</string>
+    <string name="choose_apps">Elegir apps</string>
+    <string name="btn_test">Probar voz</string>
+    <string name="search_hint">Buscar app…</string>
+</resources>

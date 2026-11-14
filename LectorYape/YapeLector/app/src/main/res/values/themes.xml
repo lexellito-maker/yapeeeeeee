@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YapeLector" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#742284</item>
+        <item name="colorPrimaryVariant">#4F1760</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00D4B1</item>
+    </style>
+</resources>
